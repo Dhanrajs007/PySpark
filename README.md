@@ -108,9 +108,9 @@ This repository demonstrates:
 
 📌 Perfect to showcase on:
 
-Resume
-LinkedIn
-GitHub portfolio
+✔️Resume
+✔️LinkedIn
+✔️GitHub portfolio
 
 ---
 
@@ -130,18 +130,18 @@ Contributions are welcome! 🎉
 
 You can:
 
-Fork the repo
-Add new PySpark examples
-Improve documentation
-Optimize existing scripts
+➡️ Fork the repo
+➡️ Add new PySpark examples
+➡️ Improve documentation
+➡️ Optimize existing scripts
 
 ---
 
 👤 Author
 Dhanraj Bhanusghare
-🔗 GitHub: https://github.com/Dhanrajs007
+ 🔗 GitHub: https://github.com/Dhanrajs007
 
 ---
 
 ⭐ If you find this repository helpful, don’t forget to star it!
-Happy Spark-ing ⚡🔥
+  Happy Spark-ing ⚡🔥
