@@ -66,6 +66,8 @@ PySpark/
 ├── outputs/            # Generated output files
 └── README.md           # Project documentation
 
+---
+
 🧪 Example Use Cases
 ✔ Data cleansing & transformations
 ✔ Filtering & aggregations
