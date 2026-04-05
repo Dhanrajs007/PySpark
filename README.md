@@ -69,6 +69,7 @@ PySpark/
 ---
 
 🧪 Example Use Cases
+
 ✔ Data cleansing & transformations
 ✔ Filtering & aggregations
 ✔ Joins across datasets
@@ -76,7 +77,10 @@ PySpark/
 ✔ SQL-style analytics on big data
 ✔ Scalable processing logic
 
+---
+
 🎯 Learning Roadmap 🗺️
+
 This repo follows a progressive learning path:
 1️⃣ PySpark basics & setup
 2️⃣ DataFrames & transformations
@@ -85,24 +89,33 @@ This repo follows a progressive learning path:
 5️⃣ Performance-aware processing
 6️⃣ Real-world ETL-style logic
 
-Ideal for Data Engineer / Big Data Engineer preparation.
+---
 
+✨ Ideal for Data Engineer / Big Data Engineer preparation.
+
+---
 
 💼 Resume / Portfolio Value
+
 This repository demonstrates:
 ✅ Hands-on Apache Spark experience
 ✅ Practical PySpark coding
 ✅ Distributed data processing skills
 ✅ ETL & analytics mindset
 ✅ Production-ready coding practices
+
+---
+
 📌 Perfect to showcase on:
 
 Resume
 LinkedIn
 GitHub portfolio
 
+---
 
 🚧 Future Enhancements
+
 🔹 Window functions
 🔹 Performance tuning & caching
 🔹 Partitioning & bucketing
@@ -110,8 +123,11 @@ GitHub portfolio
 🔹 Cloud integrations (GCS / S3 / ADLS)
 🔹 Spark optimization techniques
 
+---
+
 🤝 Contributing
 Contributions are welcome! 🎉
+
 You can:
 
 Fork the repo
@@ -119,10 +135,13 @@ Add new PySpark examples
 Improve documentation
 Optimize existing scripts
 
+---
 
 👤 Author
 Dhanraj Bhanusghare
 🔗 GitHub: https://github.com/Dhanrajs007
+
+---
 
 ⭐ If you find this repository helpful, don’t forget to star it!
 Happy Spark-ing ⚡🔥
